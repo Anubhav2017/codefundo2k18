@@ -1,7 +1,7 @@
 # Microsoft codefundo++
 
-## Team Name
-# Bohemians
+
+## Team Bohemians
 
 # Problem Statement:
 * We need to make a cloud based application which will focus on saving lives from Natural Disasters .The problem focuses on having the maximum effect prior to the calamity hitting .And how to convey this message to the maximum people in a region.
