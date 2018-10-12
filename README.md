@@ -8,9 +8,9 @@
 The predictions should be accurate and must be a relatively good forecast to prevent unnecessary hassles and inconvenience to our clients.
 
 # Our Idea for codefundo++
-* Users register using their mobile numbers and E-mail address (not mandatory).
-* Users can follow the updates of any particular calamity by subscribing to it.
-* A feature in which users can report by some means (message or by uploading images) on the calamity.
+* Users have to register using their phone number and E-mail ID(not mandatory).
+* Users can follow the updates related to a particular type of calamity by subscribing to its channel.
+* Our app sports a feature in which users can report a some 
 * Cross check the information reported by the user, using image processing and then send them to server.
 * Send alerts and preventive measures through SMS or alarms to users that are registered and around a particular region of calamity hit.
 * Prioritize the user reports according to the rating of users
